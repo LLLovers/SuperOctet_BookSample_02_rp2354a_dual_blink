@@ -1,6 +1,6 @@
 /* Aether EVT-A RP2354A board configuration. SPDX-License-Identifier: MIT */
-#ifndef AETHER_EVT_A_H
-#define AETHER_EVT_A_H
+#ifndef HARDWARE_CONFIG_H
+#define HARDWARE_CONFIG_H
 // pico_cmake_set PICO_PLATFORM = rp2350-arm-s
 #define PICO_RP2350A 1
 #define PICO_BOOT_STAGE2_CHOOSE_W25Q080 1
